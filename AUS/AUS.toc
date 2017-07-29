@@ -1,0 +1,10 @@
+\contentsline {chapter}{Contents}{4}{section*.1}
+\contentsline {chapter}{\chapternumberline {1}逢魔时刻 The Magic Hour}{5}{chapter.1}
+\contentsline {chapter}{\chapternumberline {2}昔日重现 A Déjà vu}{13}{chapter.2}
+\contentsline {chapter}{\chapternumberline {3}骤雨繁花 Rain and Flower}{21}{chapter.3}
+\contentsline {chapter}{\chapternumberline {4}行星组曲 The Planets Suite}{28}{chapter.4}
+\contentsline {chapter}{\chapternumberline {5}好风快晴 A Shiny Windy Day}{37}{chapter.5}
+\contentsline {chapter}{\chapternumberline {6}烈雨危城 Pai in the Pouring Rain}{46}{chapter.6}
+\contentsline {chapter}{\chapternumberline {7}轻舔丝绒 Tipping the Velvet}{57}{chapter.7}
+\contentsline {chapter}{\chapternumberline {8}夜之丰颂 Rundgesang}{64}{chapter.8}
+\contentsline {chapter}{\chapternumberline {9}夏日旅人 Passengers on a Summer Day}{73}{chapter.9}
